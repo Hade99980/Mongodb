@@ -82,4 +82,5 @@ The dashboard visualizations in your image provide a comprehensive analysis of c
 4. **Gender-Sensitive Initiatives**: Introduce support systems for female victims and preventive measures against crimes targeting them.
 5. **Community Engagement**: Build community trust and involve local residents in crime prevention programs to reduce the burden on law enforcement.
 
-\
+
+![Finalproject (2)](https://github.com/user-attachments/assets/15b5c5cf-67f9-4e92-9e49-8ce91168b7f9)
